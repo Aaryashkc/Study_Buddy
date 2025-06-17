@@ -37,6 +37,7 @@ import AutoAwesomeIcon from '@mui/icons-material/AutoAwesome';
 import ChatWindow from '../components/Chat/ChatWindow';
 import { motion } from 'framer-motion';
 import { useInView } from 'react-intersection-observer';
+import LOGO from '../assets/Logo.png'; 
 
 // Ultra Modern Welcome Section with Glassmorphism
 const WelcomeSection = ({ userName }) => {
